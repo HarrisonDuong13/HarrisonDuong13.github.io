@@ -10,7 +10,7 @@ My GitHub page is http://github.com/HarrisonDuong13.
 
 * Lab 1
 
-    Lab 1 is where it all started for me. I learned about the very basics of using github. This lab is the base for everything I have done in this class.
+    Lab 1 is where it all started for me. I learned about the very basics of using GitHub. This lab is the base for everything I have done in this class.
 
 * Lab 5
 
@@ -18,4 +18,4 @@ My GitHub page is http://github.com/HarrisonDuong13.
 
 * Lab 7
 
-    The end of lab 2 part 2 was really hard. My partner was really good at coding because he had done it before. He was nice enough to teach me after we finished.
+    The end of lab 2, part 2, was really hard. My partner was really good at coding because he had done it before. He was nice enough to teach me after we finished.
